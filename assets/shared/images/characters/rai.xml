@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rai.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rai DOWN NOTE0000" x="0" y="0" width="430" height="623"/>
+	<SubTexture name="Rai DOWN NOTE0001" x="0" y="0" width="430" height="623"/>
+	<SubTexture name="Rai DOWN NOTE0002" x="430" y="0" width="430" height="623"/>
+	<SubTexture name="Rai DOWN NOTE0003" x="430" y="0" width="430" height="623"/>
+	<SubTexture name="Rai DOWN NOTE0004" x="860" y="0" width="430" height="623"/>
+	<SubTexture name="Rai DOWN NOTE0005" x="860" y="0" width="430" height="623"/>
+	<SubTexture name="Rai Idle0000" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0001" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0002" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0003" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0004" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0005" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0006" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0007" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0008" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0009" x="1290" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0010" x="1714" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0011" x="1714" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0012" x="2138" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0013" x="2138" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0014" x="2138" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0015" x="2138" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0016" x="2138" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0017" x="2138" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0018" x="2562" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0019" x="2562" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0020" x="2562" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0021" x="2562" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0022" x="2562" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0023" x="2986" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0024" x="2986" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0025" x="2986" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0026" x="3410" y="0" width="424" height="886"/>
+	<SubTexture name="Rai Idle0027" x="3410" y="0" width="424" height="886"/>
+	<SubTexture name="Rai LEFT NOTE0000" x="0" y="886" width="427" height="620"/>
+	<SubTexture name="Rai LEFT NOTE0001" x="0" y="886" width="427" height="620"/>
+	<SubTexture name="Rai LEFT NOTE0002" x="427" y="886" width="427" height="620"/>
+	<SubTexture name="Rai LEFT NOTE0003" x="427" y="886" width="427" height="620"/>
+	<SubTexture name="Rai LEFT NOTE0004" x="854" y="886" width="427" height="620"/>
+	<SubTexture name="Rai LEFT NOTE0005" x="854" y="886" width="427" height="620"/>
+	<SubTexture name="Rai RIGHT NOTE0000" x="1281" y="886" width="373" height="618"/>
+	<SubTexture name="Rai RIGHT NOTE0001" x="1281" y="886" width="373" height="618"/>
+	<SubTexture name="Rai RIGHT NOTE0002" x="1654" y="886" width="373" height="618"/>
+	<SubTexture name="Rai RIGHT NOTE0003" x="1654" y="886" width="373" height="618"/>
+	<SubTexture name="Rai RIGHT NOTE0004" x="2027" y="886" width="373" height="618"/>
+	<SubTexture name="Rai RIGHT NOTE0005" x="2027" y="886" width="373" height="618"/>
+	<SubTexture name="Rai UP NOTE0000" x="2400" y="886" width="374" height="629"/>
+	<SubTexture name="Rai UP NOTE0001" x="2400" y="886" width="374" height="629"/>
+	<SubTexture name="Rai UP NOTE0002" x="2774" y="886" width="374" height="629"/>
+	<SubTexture name="Rai UP NOTE0003" x="2774" y="886" width="374" height="629"/>
+	<SubTexture name="Rai UP NOTE0004" x="3148" y="886" width="374" height="629"/>
+	<SubTexture name="Rai UP NOTE0005" x="3148" y="886" width="374" height="629"/>
+</TextureAtlas>

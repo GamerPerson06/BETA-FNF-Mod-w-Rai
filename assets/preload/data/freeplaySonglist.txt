@@ -1,0 +1,3 @@
+Magic:rai:1
+Conjuring:rai:1
+Exorcism:rai-possessed:1

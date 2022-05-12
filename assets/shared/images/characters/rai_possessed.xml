@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rai_Possessed.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rai Possessed DOWN NOTE0000" x="0" y="0" width="564" height="640"/>
+	<SubTexture name="Rai Possessed DOWN NOTE0001" x="0" y="0" width="564" height="640"/>
+	<SubTexture name="Rai Possessed DOWN NOTE0002" x="564" y="0" width="564" height="640"/>
+	<SubTexture name="Rai Possessed DOWN NOTE0003" x="564" y="0" width="564" height="640"/>
+	<SubTexture name="Rai Possessed DOWN NOTE0004" x="1128" y="0" width="564" height="640"/>
+	<SubTexture name="Rai Possessed DOWN NOTE0005" x="1128" y="0" width="564" height="640"/>
+	<SubTexture name="Rai Possessed Idle0000" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0001" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0002" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0003" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0004" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0005" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0006" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0007" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0008" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0009" x="1692" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0010" x="2276" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0011" x="2276" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0012" x="2860" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0013" x="2860" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0014" x="2860" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0015" x="2860" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0016" x="2860" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0017" x="2860" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0018" x="2860" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0019" x="3444" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0020" x="3444" y="0" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0021" x="0" y="662" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0022" x="0" y="662" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0023" x="584" y="662" width="584" height="662"/>
+	<SubTexture name="Rai Possessed Idle0024" x="584" y="662" width="584" height="662"/>
+	<SubTexture name="Rai Possessed LEFT NOTE0000" x="1168" y="662" width="662" height="683"/>
+	<SubTexture name="Rai Possessed LEFT NOTE0001" x="1168" y="662" width="662" height="683"/>
+	<SubTexture name="Rai Possessed LEFT NOTE0002" x="1830" y="662" width="662" height="683"/>
+	<SubTexture name="Rai Possessed LEFT NOTE0003" x="1830" y="662" width="662" height="683"/>
+	<SubTexture name="Rai Possessed LEFT NOTE0004" x="2492" y="662" width="662" height="683"/>
+	<SubTexture name="Rai Possessed LEFT NOTE0005" x="2492" y="662" width="662" height="683"/>
+	<SubTexture name="Rai Possessed RIGHT NOTE0000" x="3154" y="662" width="686" height="575"/>
+	<SubTexture name="Rai Possessed RIGHT NOTE0001" x="3154" y="662" width="686" height="575"/>
+	<SubTexture name="Rai Possessed RIGHT NOTE0002" x="0" y="1345" width="686" height="575"/>
+	<SubTexture name="Rai Possessed RIGHT NOTE0003" x="0" y="1345" width="686" height="575"/>
+	<SubTexture name="Rai Possessed RIGHT NOTE0004" x="686" y="1345" width="686" height="575"/>
+	<SubTexture name="Rai Possessed RIGHT NOTE0005" x="686" y="1345" width="686" height="575"/>
+	<SubTexture name="Rai Possessed UP NOTE0000" x="1372" y="1345" width="529" height="672"/>
+	<SubTexture name="Rai Possessed UP NOTE0001" x="1372" y="1345" width="529" height="672"/>
+	<SubTexture name="Rai Possessed UP NOTE0002" x="1901" y="1345" width="529" height="672"/>
+	<SubTexture name="Rai Possessed UP NOTE0003" x="1901" y="1345" width="529" height="672"/>
+	<SubTexture name="Rai Possessed UP NOTE0004" x="2430" y="1345" width="529" height="672"/>
+	<SubTexture name="Rai Possessed UP NOTE0005" x="2430" y="1345" width="529" height="672"/>
+</TextureAtlas>
